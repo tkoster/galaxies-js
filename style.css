@@ -1,0 +1,23 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 0 2rem;
+  background-color: #111;
+  color: #ddd;
+}
+
+h1 {
+  line-height: 1.2;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+canvas {
+  margin: 1rem;
+  border: 2px solid #181818;
+  border-radius: 9px;
+  background-color: black;
+}
